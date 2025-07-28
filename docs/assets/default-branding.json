@@ -1,0 +1,19 @@
+{
+  "logoUrl": "/assets/logo.png",
+  "appName": "Eventa",
+  "colors": {
+    "primary": "#9f1893",
+    "primaryHover": "#a50063",
+    "secondary": "#ef0095",
+    "accent": "#d2e3fc",
+    "textPrimary": "#1f1f1f",
+    "textSecondary": "#333333",
+    "background": "#fffaf7",
+    "card": "linear-gradient(135deg, #f5e5ff, #ffffff)",
+    "vetro": "#00a7a13f",
+    "tag1": "#00A7A2",
+    "tag2": "#381A46",
+    "tag3": "#yourTag3Color"
+    }
+  }
+
